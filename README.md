@@ -2,9 +2,10 @@
 Fucking Awesome Build System — the web GUI for Oreon Project’s build system.
 
 ## Tech
-- Next.js 14 (App Router)
+- Next.js 15 (App Router)
 - TypeScript
 - ESLint
+- MSW (Mock Service Worker)
 
 ## Quick start
 npm install
